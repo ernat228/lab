@@ -1,0 +1,1 @@
+Linux lab01 5.15.0-82-generic #91-Ubuntu SMP x86_64 GNU/Linux
