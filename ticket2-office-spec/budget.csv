@@ -1,0 +1,35 @@
+role,component,model,price_KZT,source,date
+accountant,CPU,AMD Ryzen 5 7600 BOX (cooler included),101780,e-katalog.kz lowest of 4 offers - CONFIRM VENDOR (https://e-katalog.kz/AMD-7500-OEM.htm),2026-11-15
+accountant,Motherboard,"ASUS Prime B650M-A WiFi (AM5 mATX, 4 DDR5 slots)",111276,Vendara.kz via https://e-katalog.kz/ASUS-PRIME-B650M-A-WIFI.htm,2026-11-15
+accountant,Memory 16 GB DDR5 (1x16),Kingston Fury Beast KF556C40BB-16,123309,RS6.kz via https://e-katalog.kz/KINGSTON-FURY-KF556C40BB-16.htm,2026-11-15
+accountant,SSD 1 TB,Kingston NV3 SNV3S/1000G,70931,Flexcom.kz via https://e-katalog.kz/KINGSTON-NV3.htm,2026-11-15
+accountant,"Case (micro-ATX, no PSU)",Zalman M5,25767,Flexcom.kz via https://e-katalog.kz/ZALMAN-M5.htm,2026-11-15
+accountant,PSU 550 W,TODO,,TODO - not found yet,
+accountant,Monitor 27in QHD IPS,AOC Q27B36X,65290,Forcecom.kz via https://e-katalog.kz/AOC-Q27B36X.htm,2026-11-15
+accountant,Windows 11 Pro Russian OEM (KZ only),Microsoft FQC-10548,87420,alfa.kz https://alfa.kz/pc/soft/os/microsoft/oem/8598708,2026-11-15
+sales,CPU,AMD Ryzen 5 7600 BOX (cooler included),101780,e-katalog.kz lowest of 4 offers - CONFIRM VENDOR (https://e-katalog.kz/AMD-7500-OEM.htm),2026-11-15
+sales,Motherboard,"ASUS Prime B650M-A WiFi (AM5 mATX, 4 DDR5 slots)",111276,Vendara.kz via https://e-katalog.kz/ASUS-PRIME-B650M-A-WIFI.htm,2026-11-15
+sales,Memory 32 GB DDR5 (2x16),Kingston Fury Beast KF560C36BBE2K2-32,230168,Flexcom.kz via https://e-katalog.kz/KINGSTON-FURY-KF560C36BBE2K2-32.htm,2026-11-15
+sales,SSD 1 TB,Kingston NV3 SNV3S/1000G,70931,Flexcom.kz via https://e-katalog.kz/KINGSTON-NV3.htm,2026-11-15
+sales,"Case (micro-ATX, no PSU)",Zalman M5,25767,Flexcom.kz via https://e-katalog.kz/ZALMAN-M5.htm,2026-11-15
+sales,PSU 550 W,TODO,,TODO - not found yet,
+sales,Monitor 27in QHD IPS,AOC Q27B36X,65290,Forcecom.kz via https://e-katalog.kz/AOC-Q27B36X.htm,2026-11-15
+sales,Windows 11 Pro Russian OEM (KZ only),Microsoft FQC-10548,87420,alfa.kz https://alfa.kz/pc/soft/os/microsoft/oem/8598708,2026-11-15
+webdev,CPU,AMD Ryzen 5 7600 BOX (cooler included),101780,e-katalog.kz lowest of 4 offers - CONFIRM VENDOR (https://e-katalog.kz/AMD-7500-OEM.htm),2026-11-15
+webdev,Motherboard,"ASUS Prime B650M-A WiFi (AM5 mATX, 4 DDR5 slots)",111276,Vendara.kz via https://e-katalog.kz/ASUS-PRIME-B650M-A-WIFI.htm,2026-11-15
+webdev,Memory 32 GB DDR5 (2x16),Kingston Fury Beast KF560C36BBE2K2-32,230168,Flexcom.kz via https://e-katalog.kz/KINGSTON-FURY-KF560C36BBE2K2-32.htm,2026-11-15
+webdev,SSD 1 TB,Kingston NV3 SNV3S/1000G,70931,Flexcom.kz via https://e-katalog.kz/KINGSTON-NV3.htm,2026-11-15
+webdev,"Case (micro-ATX, no PSU)",Zalman M5,25767,Flexcom.kz via https://e-katalog.kz/ZALMAN-M5.htm,2026-11-15
+webdev,PSU 550 W,TODO,,TODO - not found yet,
+webdev,Monitor 27in QHD IPS,AOC Q27B36X,65290,Forcecom.kz via https://e-katalog.kz/AOC-Q27B36X.htm,2026-11-15
+webdev,Monitor 27in QHD IPS (2 of 2),AOC Q27B36X,65290,Forcecom.kz via https://e-katalog.kz/AOC-Q27B36X.htm,2026-11-15
+webdev,Windows 11 Pro Russian OEM (KZ only),Microsoft FQC-10548,87420,alfa.kz https://alfa.kz/pc/soft/os/microsoft/oem/8598708,2026-11-15
+designer,CPU,AMD Ryzen 5 7600 BOX (cooler included),101780,e-katalog.kz lowest of 4 offers - CONFIRM VENDOR (https://e-katalog.kz/AMD-7500-OEM.htm),2026-11-15
+designer,Motherboard,"ASUS Prime B650M-A WiFi (AM5 mATX, 4 DDR5 slots)",111276,Vendara.kz via https://e-katalog.kz/ASUS-PRIME-B650M-A-WIFI.htm,2026-11-15
+designer,Memory 32 GB DDR5 (2x16),Kingston Fury Beast KF560C36BBE2K2-32,230168,Flexcom.kz via https://e-katalog.kz/KINGSTON-FURY-KF560C36BBE2K2-32.htm,2026-11-15
+designer,SSD 1 TB,Kingston NV3 SNV3S/1000G,70931,Flexcom.kz via https://e-katalog.kz/KINGSTON-NV3.htm,2026-11-15
+designer,Graphics card,INNO3D GeForce RTX 5060 Twin X2 8GB,189832,Flexcom.kz via https://e-katalog.kz/INNO3D-GEFORCE-RTX-5060-TWIN-X2.htm,2026-11-15
+designer,"Case (micro-ATX, no PSU)",Zalman M5,25767,Flexcom.kz via https://e-katalog.kz/ZALMAN-M5.htm,2026-11-15
+designer,PSU 550 W,TODO,,TODO - not found yet,
+designer,Monitor 27in QHD IPS (business class),ASUS VB27AQ,92419,alfa.kz https://alfa.kz/peripherals/monitors/asus/vb27aq,2026-11-15
+designer,Windows 11 Pro Russian OEM (KZ only),Microsoft FQC-10548,87420,alfa.kz https://alfa.kz/pc/soft/os/microsoft/oem/8598708,2026-11-15
