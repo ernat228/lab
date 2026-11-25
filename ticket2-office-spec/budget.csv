@@ -1,0 +1,32 @@
+﻿role,component,model,price KZT,source,date
+Accountant,CPU,Intel Core i5-13400,121000,shop.kz,2026-11-15
+Accountant,Motherboard,ASUS PRIME B760M-A,68000,shop.kz,2026-11-15
+Accountant,Memory,Crucial 16GB (2x8GB) DDR5 4800MHz,28000,shop.kz,2026-11-15
+Accountant,Storage,Samsung 980 PRO 1TB NVMe,58000,shop.kz,2026-11-15
+Accountant,Case+PSU,DeepCool CC560 + 550W PSU,40000,shop.kz,2026-11-15
+Accountant,OS,Windows 11 Pro OEM,49900,shop.kz,2026-11-15
+Accountant,Monitor,LG 24MR400-B 24" 1080p IPS,60000,shop.kz,2026-11-15
+Sales,CPU,AMD Ryzen 5 7600,105000,shop.kz,2026-11-15
+Sales,Motherboard,MSI PRO B650M-P,62000,shop.kz,2026-11-15
+Sales,Memory,Kingston FURY Beast 32GB (2x16GB) DDR5,56000,shop.kz,2026-11-15
+Sales,Storage,WD Blue SN580 1TB NVMe,36000,shop.kz,2026-11-15
+Sales,Case+PSU,DeepCool CC560 + 550W PSU,40000,shop.kz,2026-11-15
+Sales,OS,Windows 11 Pro OEM,49900,shop.kz,2026-11-15
+Sales,Monitor,LG 24MR400-B 24" 1080p IPS,60000,shop.kz,2026-11-15
+Web Developer,CPU,Intel Core i7-14700K,210000,shop.kz,2026-11-15
+Web Developer,Cooler,DeepCool AK620,38000,shop.kz,2026-11-15
+Web Developer,Motherboard,GIGABYTE B760 DS3H,78000,shop.kz,2026-11-15
+Web Developer,Memory,Corsair Vengeance 64GB (2x32GB) DDR5,115000,shop.kz,2026-11-15
+Web Developer,Storage,Samsung 980 PRO 1TB NVMe,58000,shop.kz,2026-11-15
+Web Developer,Case+PSU,NZXT H5 Flow + 650W PSU,65000,shop.kz,2026-11-15
+Web Developer,OS,Windows 11 Pro OEM,49900,shop.kz,2026-11-15
+Web Developer,Monitor,Dell P2723D 27" 1440p,93600,shop.kz,2026-11-15
+Designer,CPU,AMD Ryzen 7 7700X,165000,shop.kz,2026-11-15
+Designer,Cooler,DeepCool AK620,38000,shop.kz,2026-11-15
+Designer,Motherboard,MSI B650 GAMING PLUS WIFI,95000,shop.kz,2026-11-15
+Designer,Memory,Kingston FURY Beast 64GB (2x32GB) DDR5,115000,shop.kz,2026-11-15
+Designer,Storage,Samsung 990 PRO 1TB NVMe,69000,shop.kz,2026-11-15
+Designer,GPU,ASUS Dual GeForce RTX 4070 12GB,325000,shop.kz,2026-11-15
+Designer,Case+PSU,Corsair 4000D + 750W Gold PSU,95000,shop.kz,2026-11-15
+Designer,OS,Windows 11 Pro OEM,49900,shop.kz,2026-11-15
+Designer,Monitor,ASUS ProArt PA279CV 27" 4K IPS,360600,shop.kz,2026-11-15
