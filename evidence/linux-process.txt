@@ -1,0 +1,5 @@
+    PID    PPID   RSS    VSZ CMD
+   2250    2194 22476  35404 python3 -m http.server 8000
+VmSize:	   35404 kB
+VmRSS:	   22476 kB
+open fds: 4
